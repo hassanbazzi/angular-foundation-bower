@@ -2,7 +2,7 @@
  * angular-mm-foundation
  * http://pineconellc.github.io/angular-foundation/
 
- * Version: 0.8.0 - 2015-10-13
+ * Version: 0.8.3 - 2016-12-18
  * License: MIT
  * (c) Pinecone, LLC
  */
@@ -2687,7 +2687,6 @@ angular.module("mm.foundation.topbar", ['mm.foundation.mediaQueries'])
 
         var onScroll = function() {
           updateStickyPositioning();
-          scope.$apply();
         };
 
         scope.toggle = function(on) {
