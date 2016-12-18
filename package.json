@@ -1,13 +1,13 @@
 {
   "name": "angular-foundation",
-  "version": "0.8.0",
+  "version": "0.8.3",
   "description": "Angular components for Foundation",
   "author": "Pinecone, LLC",
   "license": "MIT",
   "homepage": "http://pineconellc.github.io/angular-foundation/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/pineconellc/angular-foundation.git"
+    "url": "git://github.com/hassanbazzi/angular-foundation.git"
   },
   "keywords": [
     "angular",
